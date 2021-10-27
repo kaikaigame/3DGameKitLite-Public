@@ -16,7 +16,7 @@ https://assetstore.unity.com/packages/3d/3d-game-kit-environment-pack-135167
 https://assetstore.unity.com/packages/3d/3d-game-kit-props-pack-135218  
 https://assetstore.unity.com/packages/templates/tutorials/3d-game-kit-115747  
   
-Unity m_EditorVersion:  2021.1.20f1  
+Unity m_EditorVersion:  2021.2.0f1  
   
 KEYBOARD  
   
